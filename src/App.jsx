@@ -48,7 +48,7 @@ function App() {
             <MainContent 
               img = {pic1}
               title = "Components"
-              desc = "Khối xây dựng giao diện cơ bản - kết hợp nhiều thành phần để tạo nên ứng dụng."
+              desc = "Khối xây dựng giao diện cơ bản ."
             />
             <MainContent 
               img = {pic2}
